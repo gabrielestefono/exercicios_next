@@ -1,0 +1,11 @@
+.quadroPar{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.quadroImpar{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,16 @@
+.paiDeTodos{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: #aaa;
+    width: 100vw;
+    height: 100vh;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
